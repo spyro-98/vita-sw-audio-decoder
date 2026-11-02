@@ -1,0 +1,5 @@
+# Extracted beta sources; no invented remote revision.
+source.vita-sw-decoder.base.commit=ba293b1cb0335aab2f4685ed1c96dab16cc6cb5b
+ffmpeg.app.commit=ea3d24bbe3c58b171e55fe2151fc7ffaca3ab3d2
+ffmpeg.app.version=n6.0
+ffmpeg.requires=avcodec-aac-ac3-mp3float,swresample,avutil
