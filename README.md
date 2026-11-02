@@ -16,4 +16,4 @@ Keep `vita-hw-audio-decoder` beside this repository for the shared headers, or s
 
 Host regressions live in VitaMediaDeck `tests/multiaudio` and `tests/audio_volume`. Vita firmware calls are substituted on the host; physical audio output and A/V performance require console testing.
 
-GPL-3.0-only. See [LICENSE](LICENSE). Development sources are published on the `dev` branch; VitaMediaDeck pins an exact component commit in its dependency lock.
+GPL-3.0-only. See [LICENSE](LICENSE). Development sources are published on the `main` branch; VitaMediaDeck pins an exact component commit in its dependency lock.
